@@ -18,7 +18,7 @@
 
 I'm a developer who enjoys building things, experimenting with new technologies, and occasionally wondering why something works when it absolutely shouldn't.
 
-* 🔭 Currently working on **[Assiduo](https://github.com/Prysm228555/Assiduo)** & **[Matelio](https://github.com/Prysm228555/Matelio)**
+* 🔭 Currently working on **[Assiduo](https://github.com/Prysm228555/Assiduo)**
 * 🌱 Currently learning **Symfony**
 * 🎮 Interested in **game and software development**
 * 🌐 I build **websites and applications**
