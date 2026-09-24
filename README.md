@@ -59,4 +59,14 @@ I'm a developer who enjoys building things, experimenting with new technologies,
 
 ---
 
+### ☕ Support me
+
+<p align="center">
+  <a href="https://ko-fi.com/V5O126A8YA">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi"/>
+  </a>
+</p>
+
+---
+
 > 🦈 **Random fact:** Sharks have been around for over 400 million years, before the first trees appeared on Earth.
